@@ -5,4 +5,5 @@
 	echo 'thuan lan 2';
 	echo 'thuan push ne';
 	echo 'thuan sua code';
+	echo 'thuan commit khoong push';
 ?>
