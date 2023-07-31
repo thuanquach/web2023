@@ -3,4 +3,5 @@
 	echo 'day la thuan com mit';
 	echo 'gio toi main commit';
 	echo 'thuan lan 2';
+	echo 'thuan push ne';
 ?>
